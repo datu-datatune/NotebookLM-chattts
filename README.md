@@ -31,11 +31,6 @@
 | 123盘        | [123盘](https://www.123pan.com/s/Fto1jv-CjUI.html)                          |
 | Huggingface | [🤗Huggingface](https://huggingface.co/taa/ChatTTS_colab/tree/main)        |
 
-## 演示视频
-
-[![演示视频](https://img.youtube.com/vi/199fyU7NfUQ/0.jpg)](https://www.youtube.com/watch?v=199fyU7NfUQ)
-
-欢迎关注 [氪学家频道](https://www.youtube.com/@kexue) ，获取更多有趣的科技视频。
 
 ## 特点
 
