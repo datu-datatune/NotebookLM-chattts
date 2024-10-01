@@ -17,7 +17,7 @@
 
 谷歌NotebookLM开源平替，制作AI播客，效果如下：
 
-[Attention is all you need]("https://www.bilibili.com/audio/au4555706?type=6)
+![Attention is all you need]("https://www.bilibili.com/audio/au4555706?type=6)
 
 
 </div>
