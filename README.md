@@ -1,6 +1,6 @@
 <div align="center">
 
-# ChatTTS_colab
+# NotebookLM with Chattts
 
 🚀 一键部署 简单易用 无需复杂安装（含win离线整合包）
 
