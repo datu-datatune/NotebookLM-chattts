@@ -17,6 +17,8 @@
 
 谷歌NotebookLM开源平替，制作AI播客，效果如下：
 
+<audio src="https://www.bilibili.com/audio/au4555706?type=6"></audio>
+
 
 </div>
 
